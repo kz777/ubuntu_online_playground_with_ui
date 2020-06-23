@@ -1,7 +1,7 @@
 # ubuntu_online_playground_with_ui 
 # Online FREE ubuntu server with ui
 
-# in the following online playground create ubuntu container:
+# open in your browser the following FREE online playground:
 # https://labs.play-with-docker.com/
 
 # pull the latest image
