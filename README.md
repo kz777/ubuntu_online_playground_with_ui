@@ -10,7 +10,7 @@ docker pull dorowu/ubuntu-desktop-lxde-vnc
 docker images
 
 # Run a container from the image downloaded 
-docker run --name ubuntu-with-ui -p 6080:80 -p 5900:5900 d9557ce38aab
+docker run --name ubuntu-with-ui -p 6080:80 -p 5900:5900 dorowu/ubuntu-desktop-lxde-vnc
 
 # Helpfull links:
 https://stackoverflow.com/questions/40658095/how-to-open-ubuntu-gui-inside-a-docker-image
